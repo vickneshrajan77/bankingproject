@@ -1,0 +1,66 @@
+body
+{
+  background-image: url("./Pictures/mm.png");	
+  background-size: cover;
+	background-repeat: no-repeat;
+}
+.back
+{
+	background: rgb(0,70,220);
+	transition_duration=10sec;
+}
+.back:hover
+{
+	background-color: #FFFE4C
+	
+}
+#log
+{
+background-color: white;
+box-sizing: border-box;
+margin-left: 430px;
+margin-top:75px;
+width: 10cm;
+height: 12cm;
+}
+img.rest
+{
+	width:130px;
+	height:100px;
+	margin-left: 110px;
+	margin-top: 45px;
+	
+}
+img.cb
+{
+	width:200px;
+	height:130px;
+	margin-left: 90px;
+	margin-top: 2px;
+	
+}
+button
+{
+	color:white;
+	margin-left:80px;
+	margin-top:30px;
+	background-color:blue;
+	width:220px;
+	height:28px;
+	cursor: pointer;
+	transition-duration:0.2s;
+	
+}
+button:hover
+{
+	background-color: #4CAF50;
+}
+.texe
+{
+	margin-left: 100px;
+	border-left-width: 5px;
+	border-top-color: blue;
+h2:hover
+{
+	background-color: yellow;
+}
